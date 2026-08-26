@@ -1,0 +1,11 @@
+estacion_id,fecha,temperatura_c,precipitacion_mm,humedad_pct,region
+IQUI_001,2024-07-01,30.5,18.2,88,Loreto
+IQUI_001,2024-07-02,31.2,0.0,82,Loreto
+IQUI_001,2024-07-03,29.8,32.5,91,Loreto
+IQUI_001,2024-07-04,32.1,5.1,85,Loreto
+IQUI_001,2024-07-05,31.5,0.0,80,Loreto
+CUSC_002,2024-07-01,15.3,0.0,42,Cusco
+CUSC_002,2024-07-02,14.8,2.3,55,Cusco
+CUSC_002,2024-07-03,13.5,8.7,68,Cusco
+CUSC_002,2024-07-04,16.2,0.0,45,Cusco
+CUSC_002,2024-07-05,14.9,0.5,51,Cusco
